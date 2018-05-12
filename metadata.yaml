@@ -1,10 +1,16 @@
 _repo: The-Campaign-of-Koniggratz-A-Study-of-the-Austro-Prussian-Conflict-in-the-Light-of-the-Americ__50554
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50554-h/images/cover.jpg
 creator:
   author:
     agent_name: Wagner, Arthur L.
     gutenberg_agent_id: '45973'
     url: http://www.gutenberg.org/2009/agents/45973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50554#The-Campaign-of-Koniggratz-A-Study-of-the-Austro-Prussian-Conflict-in-the-Light-of-the-Americ_
 gutenberg_issued: '2015-11-26'
 gutenberg_type: Text
 identifiers:
